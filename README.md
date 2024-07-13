@@ -6,6 +6,6 @@ Movie Search: Users can search for movies by title.
 Responsive Design: The website is fully responsive and works well on various screen sizes, from mobile devices to desktop computers.
 
 ## Technologies Used
-React: A JavaScript library for building user interfaces.
-OMDB API: An open movie database API for fetching movie data.
+React: A JavaScript library for building user interfaces.  
+OMDB API: An open movie database API for fetching movie data.  
 CSS: For styling the application and making it visually appealing.
